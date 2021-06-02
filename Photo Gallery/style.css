@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2{
+    color:brown;
+}
+
+h4{
+    color: white;
+}
+
+.container{
+    text-align: center;
+    background-image: linear-gradient(blue,purple);
+}
+
+html{
+    background-image: linear-gradient(yellow,orange);
+}
